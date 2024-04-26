@@ -6,7 +6,7 @@ this edit is to check for webhook functionality2
 
 this edit is to trigger and check static code analysis
 
-this edit is for live update
+this edit is for live update #2
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
